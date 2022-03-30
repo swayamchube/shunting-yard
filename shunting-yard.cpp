@@ -93,7 +93,7 @@ int main() {
 					answer.push(a + b);
 					break;
 				case '-':
-					answer.push(a - b);
+					answer.push(b - a);
 					break;
 				default:
 					break;
